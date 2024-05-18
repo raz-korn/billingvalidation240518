@@ -1,0 +1,7 @@
+{
+  "xsappname": "dbv01billingvalidation240518",
+  "tenant-mode": "dedicated",
+  "description": "Security profile of called application",
+  "scopes": [],
+  "role-templates": []
+}
